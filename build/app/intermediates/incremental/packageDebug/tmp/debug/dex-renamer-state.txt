@@ -1,0 +1,4 @@
+#Thu Aug 04 21:57:32 IST 2022
+base.0=/Users/vaibhav/Desktop/Projects/first_app_dev/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
